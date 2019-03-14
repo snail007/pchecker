@@ -1,5 +1,5 @@
 # pchecker
-pchecker proxy server checking tool
+different kinds of proxy server checking tool
 ## Usage
 ```text
 Usage of ./pchecker:
