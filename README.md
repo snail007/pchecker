@@ -1,6 +1,6 @@
 # pchecker
 different kinds of proxy server checking tool
-# download
+# Download
 click [download](https://github.com/snail007/pchecker/releases)
 ## Usage
 ```text
@@ -18,7 +18,7 @@ Usage of ./pchecker:
   -v	show version
 ```
 
-## list file's content
+## List File's Content
 below rules are supported by proxy servers list file:  
 
 ```text
@@ -32,7 +32,7 @@ below rules are supported by proxy servers list file:
  socks5s://host:port  
  ss://method:password@host:port
  ```
-### attention
+### Attention
 `https`  means:  http(s) proxies over TLS   
 `socks5s` means:  socks5 proxies over TLS   
 `username` and `password` must encode by `URL_ENCODE`  
