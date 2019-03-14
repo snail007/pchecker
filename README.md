@@ -1,5 +1,7 @@
 # pchecker
 different kinds of proxy server checking tool
+# download
+click [download](https://github.com/snail007/pchecker/releases)
 ## Usage
 ```text
 Usage of ./pchecker:
